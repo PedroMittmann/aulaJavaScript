@@ -1,26 +1,25 @@
-/*
-let a = 30;
-let b = 2;
-let c = -2;
+//1. Crie um código que consiga imprimir os tipos de 3 variáveis diferentes;
+var numero = 2;
+//2. Crie um código capaz de calcular a raiz quadrada de um número;
 
-let delta = Math.pow(b, 2) -4 *a *c;
+//3. Crie um código capaz de calcular a potência 2 de um número;
 
-let x1 = ((-b) + Math.sqrt(delta)) / (2 * a);
-let x2 = ((-b) - Math.sqrt(delta)) / (2 * a);
-console.log(Math.cbrt(100));
-console.log(x1,x2);
- 
-if (a<2){
-    console.log("1");
+//4. Crie um código que calcule a hipotenusa através do teorema de pitágoras;
 
-}else {
-    console.log("2");
-}
-*/
- senha = 123451454;
+//5. Crie um código capaz de calcular a fórmula de bhaskara;
 
-if (senha = 1234){
-    console.log("ACESSO PERMITIDO");
-}else{
-    console.log("ACESSO NEGADO");
-}
+//6. Crie um objeto json com um ítem do tipo array, e acesse a segunda posição;
+
+//7. Crie um array de string e imprima a posição 2;
+
+//8. Crie um array de string e concatene o valor da posição 2 com a posição 3;
+
+//9. Crie um array e remova o índice 2;
+
+//10. Crie um array e remova o primeiro ítem da lista;
+
+//11. Crie um array e adicione um valor no final do array;
+
+/*12. Crie um código utilizando a estrutura switch case e imprima qual estado corresponde
+a sigla informada. Exemplo: RO corresponde a Rondônia, SP corresponde à São
+Paulo e ZT não corresponde a nenhum estado;*/
